@@ -1,0 +1,12 @@
+{
+	"name": "owl-stats-bot",
+	"version": "1.0.0",
+	"description": "Access stats of Overwatch League Players",
+	"main": "owlbot.js",
+	"author": "Garret Lim",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"overwatchleague": "^1.4.11",
+		"winston": "^3.0.0"
+	}
+}

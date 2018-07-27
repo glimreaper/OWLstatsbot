@@ -1,0 +1,1 @@
+Simple Overwatch League discord bot using node.js. API used: https://www.npmjs.com/package/overwatchleague. Plans to add more features once the official API is released to the public. 
